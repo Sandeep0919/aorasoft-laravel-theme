@@ -1,0 +1,32 @@
+[03-Sep-2023 18:35:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/fightorsports/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fightorsports/public_html/config/cache.php on line 18
+[06-Sep-2023 18:24:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/fightorsports/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fightorsports/public_html/config/cache.php on line 18
+[17-Sep-2023 19:06:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/fightorsports/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fightorsports/public_html/config/cache.php on line 18
+[03-Dec-2023 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/fightorsports/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fightorsports/public_html/config/cache.php on line 18
+[04-Dec-2023 03:08:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/fightorsports/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fightorsports/public_html/config/cache.php on line 18
+[15-Dec-2023 06:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/fightorsports/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fightorsports/public_html/config/cache.php on line 18
+[04-Jan-2024 11:01:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/fightorsports/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fightorsports/public_html/config/cache.php on line 18
+[06-Jan-2024 00:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/fightorsports/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fightorsports/public_html/config/cache.php on line 18

